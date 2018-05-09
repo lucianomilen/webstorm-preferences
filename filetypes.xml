@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="component" type="TypeScript" />
+      <mapping pattern="WorkflowQuestionHealthunitFilterHelper" type="TypeScript" />
     </extensionMap>
   </component>
 </application>

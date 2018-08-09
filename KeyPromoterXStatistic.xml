@@ -70,7 +70,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'Example'</Description>
-          <Count>5</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Start'">
@@ -86,6 +86,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Unnamed'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'react-native start'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'react-native start'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>

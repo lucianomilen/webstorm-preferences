@@ -81,14 +81,6 @@
           <Count>15</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'WorldFootballApp'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'⇧F10'</ShortCut>
-          <Description>Run 'WorldFootballApp'</Description>
-          <Count>30</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop 'Unnamed'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -185,6 +177,14 @@
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'Unnamed'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'WorldFootballApp'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'WorldFootballApp'</Description>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'start'">

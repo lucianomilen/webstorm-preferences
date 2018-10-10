@@ -137,6 +137,14 @@
           <Count>31</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'React Native'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'React Native'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Start'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>

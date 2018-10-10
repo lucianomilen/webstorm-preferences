@@ -121,14 +121,6 @@
           <Count>12</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Revert...">
-        <Item>
-          <IdeaActionID>ChangesView.Revert</IdeaActionID>
-          <ShortCut>'⌥⌘Z'</ShortCut>
-          <Description>Revert...</Description>
-          <Count>13</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run 'Example'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -273,6 +265,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'WorldFootballApp'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Revert...">
+        <Item>
+          <IdeaActionID>ChangesView.Revert</IdeaActionID>
+          <ShortCut>'⌥⌘Z'</ShortCut>
+          <Description>Revert...</Description>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">

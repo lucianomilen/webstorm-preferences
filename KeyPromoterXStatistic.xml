@@ -153,14 +153,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'Start'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'⇧F10'</ShortCut>
-          <Description>Run 'Start'</Description>
-          <Count>17</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Safe Delete...">
         <Item>
           <IdeaActionID>SafeDelete</IdeaActionID>
@@ -305,6 +297,14 @@
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Start'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'Start'</Description>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unnamed'">

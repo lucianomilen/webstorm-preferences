@@ -9,6 +9,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Branches...">
+        <Item>
+          <IdeaActionID>Git.Branches</IdeaActionID>
+          <ShortCut>'⇧⌘`'</ShortCut>
+          <Description>Branches...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Change Signature...">
         <Item>
           <IdeaActionID>ChangeSignature</IdeaActionID>

@@ -14,7 +14,7 @@
           <IdeaActionID>Git.Branches</IdeaActionID>
           <ShortCut>'⇧⌘`'</ShortCut>
           <Description>Branches...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">

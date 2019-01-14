@@ -289,14 +289,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'serve'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'serve'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop 'start'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -449,6 +441,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'react-native start'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'serve'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'serve'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">

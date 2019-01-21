@@ -2,4 +2,7 @@
   <action id="ExpandLiveTemplateCustom">
     <keyboard-shortcut first-keystroke="ctrl meta period" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
 </keymap>
